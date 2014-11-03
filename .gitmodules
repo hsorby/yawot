@@ -1,0 +1,9 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:yawot/yawot-src.git
+[submodule "tests"]
+	path = tests
+	url = git@github.com:yawot/yawot-tests.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:yawot/yawot-docs.git

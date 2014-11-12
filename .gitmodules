@@ -1,9 +1,9 @@
 [submodule "src"]
 	path = src
-	url = git@github.com:yawot/yawot-src.git
+	url = git@github.com:hsorby/yawot-src.git
 [submodule "tests"]
 	path = tests
-	url = git@github.com:yawot/yawot-tests.git
+	url = git@github.com:hsorby/yawot-tests.git
 [submodule "docs"]
 	path = docs
-	url = git@github.com:yawot/yawot-docs.git
+	url = git@github.com:hsorby/yawot-docs.git
